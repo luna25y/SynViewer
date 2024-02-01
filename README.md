@@ -1,6 +1,7 @@
 # SynViewer
 
 尝试复刻有道词典中英文档同步阅读
+Try: https://luna25y.github.io/SynViewer/
 
 #### 目前步骤：
 谷歌文档翻译功能翻译文档　→　分别上传原文档和翻译后文档　→ 可以同步阅读两个文档
