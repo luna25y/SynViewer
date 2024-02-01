@@ -1,6 +1,6 @@
 # SynViewer
 
-尝试复刻有道词典中英文档同步阅读
+尝试复刻有道词典中英文档同步阅读<br>
 Try: https://luna25y.github.io/SynViewer/
 
 #### 目前步骤：
