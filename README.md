@@ -15,4 +15,4 @@
 - 2/1：基本功能，垂直水平同步滚动，页面优化
 
 #### API
-pdf.js: https://github.com/mozilla/pdf.js?tab=readme-ov-file
+- pdf.js: https://github.com/mozilla/pdf.js?tab=readme-ov-file
